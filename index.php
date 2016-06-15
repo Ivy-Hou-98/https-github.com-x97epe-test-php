@@ -3,6 +3,7 @@
     <title>HURRA!</title>
   </head>
 <body>
- <?php phpinfo(); ?>
+<H1>Ohh... Wath a funny stuff here...</H1>
+<?PHP PRINT _SERVER['HOST']; ?>
 </body>
 </html>
